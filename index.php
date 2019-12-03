@@ -32,14 +32,14 @@
                                     <input name="senha" class="input is-large" type="password" required="required" placeholder="Sua senha">
                                 </div>
                             </div>
-                            <button type="submit" class="button is-block is-link is-large is-fullwidth">Entrar</button>
+                            
                         </form>
 
                        <br><br> <h2>Valide o Captcha</h2>
  <form action="#" method="GET">
       <div class="g-recaptcha" data-sitekey="6LeRtMQUAAAAAEg8cOImS7IZb1jjudQrj2G6hPC8"></div>
       <br/>  
-       <button type="submit" class="btn btn-primary">enviar</button><br><br>
+     <button type="submit" class="button is-block is-link is-large is-fullwidth">Entrar</button>
  </form>
 
     
