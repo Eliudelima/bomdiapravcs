@@ -37,7 +37,7 @@
 
                        <br><br> <h2>Valide o Captcha</h2>
  <form action="#" method="GET">
-      <div class="g-recaptcha" data-sitekey="6LcD2MUUAAAAAIbs2LeVHunJv1MlewtodDuTL3re"></div>
+      <div class="g-recaptcha" data-sitekey="6LeRtMQUAAAAAEg8cOImS7IZb1jjudQrj2G6hPC8"></div>
       <br/>  
        <button type="submit" class="btn btn-primary">enviar</button><br><br>
  </form>
