@@ -33,10 +33,10 @@
                                 </div>
                             </div>
                             
-                        </form>
+                     
 
                        <br><br> <h2>Valide o Captcha</h2>
- <form action="#" method="GET">
+ 
       <div class="g-recaptcha" data-sitekey="6LeRtMQUAAAAAEg8cOImS7IZb1jjudQrj2G6hPC8"></div>
       <br/>  
      <button type="submit" class="button is-block is-link is-large is-fullwidth">Entrar</button>
