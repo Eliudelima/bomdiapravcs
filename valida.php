@@ -26,7 +26,7 @@
 			$email = $_REQUEST['email'];
 
 		$corpo="<strong> Nosso site </strong><br><br>";
-		$corpo .= "https://auladoclaudio.000webhostapp.com/";
+		$corpo .= "http://bomdiapravcs.azurewebsites.net/";
 				
 		$header = "Content-Type: text/html; charset = utf-8\n";
 		
